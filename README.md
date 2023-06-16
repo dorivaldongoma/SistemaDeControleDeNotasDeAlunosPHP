@@ -1,7 +1,7 @@
 # CRUD com PHP, MySQL, JavaScript e AJAX
 ![Capa](img/capa2.JPG)
 ![Capa](img/capa1.JPG)
-![Capa](img/capa2.JPG)
+![Capa](img/capa3.JPG)
 ## Sobre o projecto
 [![Licença: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/dorivaldongoma/SistemaDeControleDeNotasDeAlunosPHP/blob/main/LICENSE)
 
