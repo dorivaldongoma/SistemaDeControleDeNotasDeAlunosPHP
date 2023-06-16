@@ -1,22 +1,18 @@
 <!DOCTYPE html>
-<html lang="es">
-
+<html lang="pt">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controle de notas | Dorivaldo Ngoma</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Dorivaldo Ngoma">
+    <meta name="description" content="Sistema simples para gerenciar alunos, disciplinas e notas, utilizando a linguagem de programação PHP em conjunto com o banco de dados MySQL.">
     <link rel="stylesheet" href="../css/bootstrap.min.css">
-
-    <style>
-        body {
-            padding-top: 70px;
-        }
-    </style>
-    <title>Control de notas</title>
+    <style>body {padding-top: 70px;}</style>
 </head>
 
 <body>
     <nav class="navbar navbar-expand-md navbar-dark bg-success fixed-top">
-        <a class="navbar-brand" href="https://doridev.com/">Control de notas</a>
+        <a class="navbar-brand" href="https://doridev.com/">Controle de notas</a>
         <div class="collapse navbar-collapse">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
